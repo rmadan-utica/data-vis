@@ -49,27 +49,18 @@ The files below are included in the Module 1/Module 2 working outputs.
   `m01_after_chart.png`               Reference image of the
                                       selected/updated Module 1 chart.
 
-  `m01_before_after.png`              Before-and-after visualization
-                                      evidence.
-
   `module_2_file_guide.txt`           Notes identifying the selected
                                       chart month and the purpose of the
                                       project files.
 
-  `run_record.json`                   Run or execution record associated
-                                      with the saved outputs.
-
   `m01_graduate_check.csv`            Supporting numerical check for the
                                       graduate-level extension.
 
-  `m01_graduate_missingness.png`      Supporting visualization of the
-                                      missing-data analysis.
   -----------------------------------------------------------------------
 
-## Run the Module 1 notebook in Google Colab
+## How to Run the Module 1 notebook in Google Colab
 
-1.  Open the personal Module 1 notebook using this link: **\[Insert your
-    working Colab notebook URL\]**.
+1.  Open the personal Module 1 notebook using this link: **\[https://colab.research.google.com/drive/1rSvJew09qzpAWkstCYPKlGgWn0tIgnvU?usp=sharing\]**.
 2.  Sign in to Google if prompted.
 3.  Upload the project input file(s) when the notebook requests them, or
     make sure they are available in the notebook's expected location.
