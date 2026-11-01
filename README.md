@@ -56,11 +56,15 @@ The files below are included in the Module 1/Module 2 working outputs.
   `m01_graduate_check.csv`            Supporting numerical check for the
                                       graduate-level extension.
 
+  `rmadan_tableau-workbook.ipynb`     Google Colab python notebook used to
+                                      create visuals and EDA of neighborhood
+                                      data.                                  
+
   -----------------------------------------------------------------------
 
 ## How to Run the Module 1 notebook in Google Colab
 
-1.  Open the personal Module 1 notebook using this link: **[https://colab.research.google.com/drive/1rSvJew09qzpAWkstCYPKlGgWn0tIgnvU?usp=sharing]**.
+1.  Open the personal Module 1 notebook using this link: **[https://colab.research.google.com/drive/1PR8ZqJtNufc_sPtVNWWIyfaJwdJx1ppF#scrollTo=2qtw8jAqLlbj]**.
 2.  Sign in to Google if prompted.
 3.  Upload the project input file(s) when the notebook requests them, or
     make sure they are available in the notebook's expected location.
