@@ -1,0 +1,5 @@
+neighborhood,capacity_all,total_periods,attendance_visits,capacity_observed,observed_periods,coverage_status,utilization_pct,zero_imputed_pct
+East,660,6,412.0,560,5,Observed with reported coverage,73.57142857142857,62.42424242424242
+North,600,6,439.0,600,6,Observed with reported coverage,73.16666666666667,73.16666666666667
+South,510,6,408.0,510,6,Observed with reported coverage,80.0,80.0
+West,780,6,463.0,780,6,Observed with reported coverage,59.35897435897436,59.35897435897436
