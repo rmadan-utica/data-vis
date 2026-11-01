@@ -60,7 +60,7 @@ The files below are included in the Module 1/Module 2 working outputs.
 
 ## How to Run the Module 1 notebook in Google Colab
 
-1.  Open the personal Module 1 notebook using this link: **\[https://colab.research.google.com/drive/1rSvJew09qzpAWkstCYPKlGgWn0tIgnvU?usp=sharing\]**.
+1.  Open the personal Module 1 notebook using this link: **[https://colab.research.google.com/drive/1rSvJew09qzpAWkstCYPKlGgWn0tIgnvU?usp=sharing]**.
 2.  Sign in to Google if prompted.
 3.  Upload the project input file(s) when the notebook requests them, or
     make sure they are available in the notebook's expected location.
@@ -97,27 +97,16 @@ this month-specific attendance chart.
 
 ## Expected checked values
 
-The expected October 2026 attendance values are:
-
-  Neighborhood     Expected attendance visits
-  -------------- ----------------------------
-  East                                     94
-  West                                     90
-  North                                    90
-  South                                    82
-
-The chart order in the reference is East, West, North, South. North and
-West have the same expected attendance value, so their relative order
-does not change the numerical comparison.
-
 Use `m01_claim_check.csv` as the Python claim-check reference and
 compare its values with the values displayed in Tableau. The comparison
 should show a difference of **0** for each neighborhood when the same
-month, measure, and aggregation are used. The `m01_after_chart.png` file
-provides visual evidence of the selected chart. `m01_before_after.png`,
-`m01_graduate_check.csv`, and `m01_graduate_missingness.png` provide
-additional supporting evidence for the broader visualization and
-data-quality work.
+month, measure, and aggregation are used. The `numerical_check.png` file
+provides visual evidence of the selected chart.
+
+![System Architecture Diagram](./numerical_check.png)
+
+**To Re-Create:**
+Run the tableau workbook and subtract the difference from the selected m01_claim_check.csv. These should amount to to zero.
 
 **Validation note:** Before final submission, confirm that the `month`
 field in `m01_claim_check.csv` is October 2026 and that its four values
@@ -131,7 +120,7 @@ as October results.
 -   **Workbook filename:**
     `[Insert the saved Tableau workbook filename, preferably the packaged .twbx file.]`
 -   **Published Tableau view (if applicable):**
-    `[Insert the working Tableau Public or Tableau Cloud view URL.]`
+    `[https://public.tableau.com/app/profile/jay.singh5541/viz/data_vis_tableau-workbook/Sheet1?publish=yes]`
 -   **Access instructions:** Open the workbook file in Tableau Desktop,
     or open the published view link in a browser. If the published view
     is private or requires sign-in, grant the instructor/viewers the
